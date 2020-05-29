@@ -1,5 +1,5 @@
 Package: love.litten.dress
-Version: 1.0-453+debug
+Version: 0.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Litten <hiya@litten.love>
 Installed-Size: 1540
@@ -18,7 +18,7 @@ Name: Dress 👗
 Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
 
 Package: love.litten.dress
-Version: 1.0-454+debug
+Version: 0.0.0-2
 Architecture: iphoneos-arm
 Maintainer: Litten <hiya@litten.love>
 Installed-Size: 1540
@@ -37,7 +37,7 @@ Name: Dress 👗
 Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
 
 Package: love.litten.dress
-Version: 1.1-455+debug
+Version: 0.0.0-3
 Architecture: iphoneos-arm
 Maintainer: Litten <hiya@litten.love>
 Installed-Size: 1520
