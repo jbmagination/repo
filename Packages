@@ -1,4 +1,4 @@
-Package: love.litten.dress
+Package: love.litten.dress.discontinued
 Version: 0.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Litten <hiya@litten.love>
@@ -17,7 +17,7 @@ Icon: https://repo.litten.love/depictions/drs/assets/icon.png
 Name: Dress 👗 (DRM-Free) [DISCONTINUED]
 Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
 
-Package: love.litten.dress
+Package: love.litten.dress.discontinued
 Version: 0.0.0-2
 Architecture: iphoneos-arm
 Maintainer: Litten <hiya@litten.love>
@@ -36,7 +36,7 @@ Icon: https://repo.litten.love/depictions/drs/assets/icon.png
 Name: Dress 👗 (DRM-Free) [DISCONTINUED]
 Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
 
-Package: love.litten.dress
+Package: love.litten.dress.discontinued
 Version: 0.0.0-3
 Architecture: iphoneos-arm
 Maintainer: Litten <hiya@litten.love>
